@@ -56,3 +56,8 @@ This project contains the minimum amount of code needed to draw sprites to the s
 - `src/state.rs`  
   Implements the main game state. In the `on_start` hook, the camera is initialized, and the sprites that will be drawn are loaded and their entities created.  
    In the `handle_event` hook, we print any keys that were pressed and close the window if the user presses escape or the OS requests that we quit.
+
+
+## Important notes
+
+The other user is a dorkass
